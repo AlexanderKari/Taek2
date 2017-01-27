@@ -11,6 +11,7 @@
 9. inntakstæki eða Input device er jaðartæki notuð til að færa tölvunni
    upplýsingar eða stjórn merki. dæmi um inntakstæki eru lyklaborð, mýs,
    skannarar og margt fleira.
+
 10.--Leikjatölva á 250.000kr--
    Móðurborð:	 Asus Z170-Pro Gaming | 27.855kr | att.is
    Örgjörvi:	 Intel Core i7-7700 3.6GHz(4.2GHz turbo)| 49.900kr | Tölvutækni
