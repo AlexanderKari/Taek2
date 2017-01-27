@@ -8,3 +8,6 @@
 7. Open-Ended spurningar eru þegar viðkomandi útskýrir upplýsingarnar með sínumeigin orðum en Closed-Ended spurningar er þegar það er spurt já og nei spurningar.
 8. Jaðartæki eru prentarar, mýs, lykaborð, herynatól, vefmyndavélar,
    minnislyklar og margt fleira. Jaðartæki er hlutur sem tengist tölvu en er ekki   partur af henni.
+9. inntakstæki eða Input device er jaðartæki notuð til að færa tölvunni
+   upplýsingar eða stjórn merki. dæmi um inntakstæki eru lyklaborð, mýs,
+   skannarar og margt fleira.
